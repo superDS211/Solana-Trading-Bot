@@ -1,5 +1,3 @@
-Here's a GitHub README for your Solana trading bot project:
-text
 # 🚀 SolanaSwift: High-Performance Solana Trading Bot
 
 ## 📌 Overview
